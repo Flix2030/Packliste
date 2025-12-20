@@ -1,0 +1,7 @@
+{
+  "name": "Fixpack",
+  "description": "A high-performance, dark-themed packing list manager for organized travelers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
