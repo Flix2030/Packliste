@@ -27,6 +27,8 @@ const App: React.FC = () => {
     setIsLoaded(true);
   }, []);
 
+  
+
   useEffect(() => {
     if (isLoaded) {
       saveAppData(data);
